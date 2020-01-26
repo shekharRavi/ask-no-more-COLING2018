@@ -2,6 +2,8 @@
 
 This is the code base for _Ask No More: Deciding when to guess in referential visual dialogue_ https://arxiv.org/abs/1805.06960, accepted at COLING 2018.
 
+Also check our folloe-up [NAACL work](https://github.com/shekharRavi/Beyond-Task-Success-NAACL2019) 
+
 ![](figs/model_overview.png)
 
 ## Getting Started
@@ -26,3 +28,8 @@ cached using `cache_visual_features.py`.
   year={2018}
 }
 ```
+
+## Contributors
+* [Tim Baumgärtner](https://timbmg.github.io/) (The main author of this version of the code)
+* [Aashish Venkatesh](https://github.com/AashishV/)
+* [Ravi Shekhar](http://shekharravi.github.io)
