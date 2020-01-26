@@ -2,7 +2,7 @@
 
 This is the code base for _Ask No More: Deciding when to guess in referential visual dialogue_ https://arxiv.org/abs/1805.06960, accepted at COLING 2018.
 
-Also check our folloe-up [NAACL work](https://github.com/shekharRavi/Beyond-Task-Success-NAACL2019) 
+Also check our follow-up [NAACL work](https://github.com/shekharRavi/Beyond-Task-Success-NAACL2019) 
 
 ![](figs/model_overview.png)
 
